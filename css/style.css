@@ -18,21 +18,25 @@
 body{
     background-color: white;
 }
-/* TYPOGRAPHY */
+/* MAIN */
 .titolo{
     font-family: 'Fredoka', sans-serif;
     color: #E53170 ;
     text-align: center;
-    padding: 3%;
+    padding-top: 3%;
 }
 .par1{
-    padding: 0% 10%;
+    padding: 50px;
     text-align: center;
 }
-/* MAIN */
 .colonna{
-    width: calc(33% - 20px);
+    width: calc(33% - 40px );
     background-color: black;
     float: left;
-    margin: 10px 10px;
+    margin: 10px 20px;
 }
+
+.img{
+    width: 111px;
+    height: 103px;
+ }
